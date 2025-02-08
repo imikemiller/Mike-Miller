@@ -2,8 +2,7 @@
 📞 +(44) 7939502597 | 📧 [mike@figmayo.com](mailto:mike@figmayo.com) | 🌐 [figmayo.com](https://figmayo.com)  | 🔗 [GitHub](https://github.com/imikemiller) | [LinkedIn](https://www.linkedin.com/in/mike-miller-ab0b0845/)
 
 ## **Full Stack TypeScript Developer & Frontend Specialist**  
-**Experienced technical leader** with a proven track record of driving **team velocity and cohesion**.  
-Specializing in **design systems, frontend engineering, developer tooling, and testing**. Passionate about helping teams unlock the full potential of their **design system investment**—whether by improving adoption or laying a solid **engineering foundation** for new initiatives.
+Experienced technical leader with a proven track record of accelerating team velocity and cohesion. Specializing in design operations, frontend engineering, developer tooling, and testing. Passionate about helping teams bridge the gap between design and engineering, leveraging AI-driven automation to streamline workflows, enhance collaboration, and maximize the impact of their design investment—whether by improving adoption, optimizing processes, or building a scalable technical foundation for design operations.
 
 ---
 
