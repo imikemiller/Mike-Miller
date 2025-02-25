@@ -62,6 +62,13 @@
       font-size: 14px;
       color: #888;
     }
+
+    /* Hide the download button in print mode */
+    @media print {
+      .pdf-button {
+        display: none;
+      }
+    }
   </style>
 </head>
 <body>
