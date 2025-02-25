@@ -7,7 +7,7 @@ title: My CV
 📞 +(44) 7939502597 | 📧 [mike@mikemiller.uk](mailto:mike@mikemiller.uk) | 🌐 [mikemiller.uk](https://mikemiller.uk)  | 🔗 [GitHub](https://github.com/imikemiller) | [LinkedIn](https://www.linkedin.com/in/mike-miller-ab0b0845/) | [Download my CV](assets/mike-miller@latest.pdf)
 
 ## **Hands-on Solution Architect & Technical Leader**  
-Experienced technical leader and AWS Solution Architect (pro level) with a proven track record of accelerating team velocity and cohesion. Specializing in SaaS products, dev ops, full stack Typescript, DX, and testing. Passionate about helping teams bring products to life and delivering world class customer experiences. Expert at leveraging AI-driven automation to streamline workflows, maximise productivity, and rapidly deliver product value.
+Experienced technical leader and AWS Solution Architect (pro level) with a proven track record of accelerating team velocity and cohesion. Specializing in SaaS products, dev ops, full stack Typescript, DX, and testing. Passionate about helping teams bring products to life and delivering world class customer experiences. Expert at leveraging AI-driven automation to streamline workflows, maximise productivity, and rapidly deliver business value.
 
 ---
 
