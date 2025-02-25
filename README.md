@@ -1,4 +1,4 @@
-# **Mike Miller**  
+
 📞 +(44) 7939502597 | 📧 [mike@mikemiller.uk](mailto:mike@mikemiller.uk) | 🌐 [mikemiller.uk](https://mikemiller.uk)  | 🔗 [GitHub](https://github.com/imikemiller) | [LinkedIn](https://www.linkedin.com/in/mike-miller-ab0b0845/)
 
 ## **Hands-on Solution Architect & Technical Leader**  
