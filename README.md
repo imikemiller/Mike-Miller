@@ -1,24 +1,24 @@
 # **Mike Miller**  
-📞 +(44) 7939502597 | 📧 [mike@figmayo.com](mailto:mike@figmayo.com) | 🌐 [figmayo.com](https://figmayo.com)  | 🔗 [GitHub](https://github.com/imikemiller) | [LinkedIn](https://www.linkedin.com/in/mike-miller-ab0b0845/)
+📞 +(44) 7939502597 | 📧 [mike@mikemiller.uk](mailto:mike@mikemiller.uk) | 🌐 [mikemiller.uk](https://mikemiller.uk)  | 🔗 [GitHub](https://github.com/imikemiller) | [LinkedIn](https://www.linkedin.com/in/mike-miller-ab0b0845/)
 
-## **Full Stack TypeScript Developer & Frontend Specialist**  
-Experienced technical leader with a proven track record of accelerating team velocity and cohesion. Specializing in design operations, frontend engineering, developer tooling, and testing. Passionate about helping teams bridge the gap between design and engineering, leveraging AI-driven automation to streamline workflows, enhance collaboration, and maximize the impact of their design investment—whether by improving adoption, optimizing processes, or building a scalable technical foundation for design operations.
+## **Solution Architect & Technical Leader**  
+Experienced technical leader and AWS Solution Architect (pro level) with a proven track record of accelerating team velocity and cohesion. Specializing in SaaS products, dev ops, full stack Typescript, DX, and testing. Passionate about helping teams bring products to life and delivering world class customer experiences. Expert at leveraging AI-driven automation to streamline workflows, maximise productivity, and rapidly deliver product value.
 
 ---
 
 ## **Experience**  
 
 ### **FigMayo – Co-Founder & CTO** *(June 2023 – Present)*  
-Founded **FigMayo** to solve **poor design system documentation** and **inefficient handoff between design and engineering**. Our product helps customers **reduce design system operational costs by over 40%** while driving adoption.  
+Founded **FigMayo** to solve **poor design system documentation** and **inefficient handoff between design and engineering**. Our product helps customers **reduce design operational costs by over 40%** while accelerating product delivery.  
 
 - **Architected** the full stack of the **FigMayo platform** (frontend, APIs, services, data).  
 - **Principal Engineer**, delivering TypeScript code across the stack.  
-- **Lead Consultant**, helping customers establish best practices in **design systems**.  
+- **Lead Consultant**, helping customers establish best practices in **design systems** and **design ops**.  
 - **User Research & Prioritization**, engaging with customers to **uncover pain points** and deliver high-value solutions.  
 - **Technical Strategy & Stakeholder Communication**, ensuring alignment at all levels.  
-- **Security & Compliance**, providing audit reports to assure platform security.  
+- **Security & Compliance**, providing audit reports and wrote technical policy documentation to assure platform security.  
 
-🛠 **Tech:** TypeScript, AWS, CDK, Next.js, MySQL, Serverless, PlanetScale, Vercel, Inngest, Prisma  
+🛠 **Tech:** TypeScript, AWS, CDK, Next.js, MySQL, Serverless, Vercel, Inngest, Prisma  
 
 ---
 
@@ -27,9 +27,22 @@ Established and led the **Frontend Foundations** team, focused on **developer ex
 
 - Built **frontend tooling and CI/CD pipelines** to boost engineering efficiency.  
 - Scaled and mentored a team of engineers, fostering a strong **frontend engineering culture**.  
-- Partnered with product teams to **identify engineering pain points** and accelerate development.  
+- Partnered with product teams to **identify engineering pain points** and accelerate development.
+- **Designed and implemented** inter-op toolchain for Python & React.
 
-🛠 **Tech:** TypeScript, React.js, AWS, CDK, Python, Django  
+🛠 **Tech:** TypeScript, React, AWS, CDK, Python, Django  
+
+---
+
+### **Onesheet – Co-Founder & CTO** *(April 2019 – Nov 2022)*  
+Built and scaled a **music industry SaaS platform**, later **[acquired by Chartmetric](https://www.musicbusinessworldwide.com/us-music-data-analytics-firm-chartmetric-acquires-uk-based-tech-startup-onesheet/)**. An automation platform for producing music industry onesheets.
+
+- **Architected** the full stack of the **FigMayo platform** (frontend, APIs, services, data).  
+- **Developed** a modern front end in **React.js**
+- Leveraged **AWS Amplify** with **serverless architecture** for scalability.  
+- Optimized for **SEO & performance**, publishing static HTML.  
+
+🛠 **Tech:** React, Node.js, AppSync, API Gateway, DynamoDB, Cognito, Lambda  
 
 ---
 
@@ -44,22 +57,12 @@ Shaped Tigerspike’s strategic focus on AWS, leading **cloud migration and arch
 
 ---
 
-### **Onesheet – Co-Founder & CTO** *(April 2019 – Nov 2022)*  
-Built and scaled a **music industry SaaS platform**, later **acquired by Chartmetric**.  
-
-- Developed a **React.js app** for creating and managing artist profiles.  
-- Leveraged **AWS Amplify** with **serverless architecture** for scalability.  
-- Optimized for **SEO & performance**, publishing static HTML.  
-
-🛠 **Tech:** React, Node.js, AppSync, API Gateway, DynamoDB, Cognito, Lambda  
-
----
-
 ### **Vortic VR – CTO** *(June 2018 – Sept 2019)*  
 Led the **technology and asset pipeline** for a **fine art-focused AR/VR platform**.  
 
-- Built **Node.js REST APIs** and an **Electron-based SaaS frontend**.  
-- Developed **AWS-based asset delivery pipelines**.  
+- Built **Node.js REST APIs** and an **Electron desktop application**.  
+- Developed **AWS-based asset delivery pipelines**.
+- Built core **VFX** engineering function.
 
 🛠 **Tech:** Electron, React, Node.js, AWS, Unit Testing, Unity, AR/VR  
 
@@ -78,8 +81,8 @@ Built and scaled a **real-time market research platform**, delivering **45M+ que
 
 ## **Skills**  
 
-✔ **Expert In:** TypeScript, React, Node.js, AWS (CDK, Serverless, Amplify, Cognito, AppSync), GraphQL, API Design, CI/CD, Frontend Architecture, Testing (TDD, Unit Testing)  
-✔ **Additional Expertise:** CloudFormation, DynamoDB, MySQL, Redis, Elasticsearch, OAuth, Agile, SOLID, OOP  
+✔ **Expert In:** TypeScript, React, Node.js, AWS (CDK, Serverless, Amplify, Cognito, AppSync), Cloudformation, GraphQL, API Design, CI/CD, Frontend Architecture, Testing (TDD, Unit Testing)  
+✔ **Additional Expertise:** CloudFormation, DynamoDB, MySQL, Redis, Elasticsearch, OAuth, Agile, SOLID, OOP, ExpressJS
 
 ---
 
@@ -101,5 +104,5 @@ Built and scaled a **real-time market research platform**, delivering **45M+ que
 ---
 
 ## **A Bit About Me**  
-👨‍👩‍👦 **Father** to a 9-year-old boy, **husband** to a long-suffering tech widow.  
+👨‍👩‍👦 **Father** to a 10-year-old boy, **husband** to a long-suffering tech widow.  
 🐕 Love hiking with my dog, reading, and continuous learning.  
