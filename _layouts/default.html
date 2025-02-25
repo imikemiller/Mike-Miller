@@ -3,7 +3,66 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title }}</title><!-- Link to Google Fonts for Inter -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+  <style>
+    /* Basic reset for body */
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    /* Center the content on the page */
+    .content-wrapper {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
+    /* Style the title */
+    h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+      color: #333;
+    }
+
+    /* Add space to paragraphs */
+    p {
+      line-height: 1.6;
+      margin-bottom: 15px;
+    }
+
+    /* Style the button */
+    .pdf-button {
+      margin: 20px 0;
+      padding: 12px 20px;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .pdf-button:hover {
+      background-color: #0056b3;
+    }
+
+    /* Footer style */
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+      color: #888;
+    }
+  </style>
 </head>
 <body>
   <header>
