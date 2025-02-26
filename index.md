@@ -104,6 +104,10 @@ Built and scaled a real-time market research platform, delivering 45M+ questions
 [onesheet.club](https://www.onesheet.club) *(Acquired by Chartmetric)*  
 [vorticvr.com](https://www.vorticvr.com)
 
+## **Rights to Work & Availability**
+
+I have the right to work in the UK and France and I am available for remote roles coordinated with Central European Time. I am a native English speaker with conversational proficiency (B2) in French.
+
 ---
 
 ## **A Bit About Me**  
