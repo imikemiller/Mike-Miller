@@ -2,7 +2,7 @@
 layout: default
 title: Mike Miller
 ---
-· [mike@mikemiller.uk](mailto:mike@mikemiller.uk) · [mikemiller.uk](https://imikemiller.github.io/Mike-Miller/) · [GitHub](https://github.com/imikemiller) · [LinkedIn](https://www.linkedin.com/in/mike-miller-ab0b0845/) 
+[Web](https://imikemiller.github.io/Mike-Miller/) · [GitHub](https://github.com/imikemiller) · [LinkedIn](https://www.linkedin.com/in/mike-miller-ab0b0845/) · [mike@mikemiller.uk](mailto:mike@mikemiller.uk)  
 
 ## **Hands-on CTO & Technical Leader**  
 Experienced technical leader and AWS Solution Architect (pro level) with a proven track record of accelerating team velocity and cohesion. Specializing in SaaS products, dev ops, full stack Typescript, DX, and testing. Passionate about helping teams bring products to life and delivering world class customer experiences. Expert at leveraging AI-driven automation to streamline workflows, maximise productivity, and rapidly deliver business value.
@@ -11,7 +11,7 @@ Experienced technical leader and AWS Solution Architect (pro level) with a prove
 
 ## **Experience**  
 
-### **FigMayo – Co-Founder & CTO** *(June 2023 – Present)*  
+### **FigMayo – CTO** *(June 2023 – Present)*  
 Founded FigMayo to solve poor design system documentation and inefficient handoff between design and engineering. Our product helps customers reduce design operational costs by over 40% while accelerating product delivery.  
 
 - **Architected** the full stack of the FigMayo platform (frontend, APIs, services, data).  
@@ -37,7 +37,7 @@ Wayflyer is Irelands most recent Unicorn. Mike joined early to establish and lea
 
 ---
 
-### **Onesheet – Co-Founder & CTO** *(April 2019 – Nov 2022)*  
+### **Onesheet – CTO** *(April 2019 – Nov 2022)*  
 Built and scaled a music industry SaaS platform, later [acquired by Chartmetric](https://www.musicbusinessworldwide.com/us-music-data-analytics-firm-chartmetric-acquires-uk-based-tech-startup-onesheet/). An automation platform for producing music industry onesheets.
 
 - **Architected** the full stack of the FigMayo platform (frontend, APIs, services, data).  
