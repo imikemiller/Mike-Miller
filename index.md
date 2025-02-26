@@ -100,13 +100,12 @@ Built and scaled a real-time market research platform, delivering 45M+ questions
 
 ## **Selected Projects**  
 
-🔗 [figmayo.com](https://figmayo.com)  
-🔗 [onesheet.club](https://www.onesheet.club) *(Acquired by Chartmetric)*  
-🔗 [vorticvr.com](https://www.vorticvr.com)  
-🔗 [onepulse.com](https://www.onepulse.com)  
+[figmayo.com](https://figmayo.com)  
+[onesheet.club](https://www.onesheet.club) *(Acquired by Chartmetric)*  
+[vorticvr.com](https://www.vorticvr.com)
 
 ---
 
 ## **A Bit About Me**  
-👨‍👩‍👦 Father to a 10-year-old boy, husband to a long-suffering tech widow.  
-🐕 Love hiking with my dog, reading, and continuous learning.  
+Father to a 10-year-old boy, husband to a long-suffering tech widow.  
+Love hiking with my dog, reading, and continuous learning.  
