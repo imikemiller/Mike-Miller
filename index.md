@@ -85,8 +85,8 @@ Built and scaled a real-time market research platform, delivering 45M+ questions
 
 ## **Skills**  
 
-✔ **Expert In:** TypeScript, React, Node.js, AWS (CDK, Serverless, Amplify, Cognito, AppSync), Cloudformation, GraphQL, API Design, CI/CD, Frontend Architecture, Testing (TDD, Unit Testing), Automation, Developer Experience
-✔ **Additional Expertise:** CloudFormation, DynamoDB, MySQL, Redis, Elasticsearch, OAuth, Agile, SOLID, OOP, ExpressJS
+**Expert In:** TypeScript, React, Svelte, Vue, Node.js, AWS (CDK, Serverless, Amplify, Cognito, AppSync), Cloudformation, GraphQL, API Design, CI/CD, OAuth, Frontend Architecture, Testing (TDD, Unit Testing), Automation, Developer Experience
+**Additional Expertise:** CloudFormation, DynamoDB, MySQL, Redis, Elasticsearch, Agile, SOLID, OOP, ExpressJS
 
 ---
 
