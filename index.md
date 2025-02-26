@@ -26,7 +26,7 @@ Founded FigMayo to solve poor design system documentation and inefficient handof
 ---
 
 ### **Wayflyer – Engineering Manager** *(March 2021 – June 2023)*  
-Wayflyer is Irelands most recent Unicorn. Mike joined early to establish and lead the Wayflyer Frontend Foundations (#FeFo) team, focused on developer experience, tooling, testing, and delivery pipelines.  
+Wayflyer, Ireland’s most recent fintech unicorn, is a rapidly growing scale-up. Mike joined to establish and lead the Wayflyer Frontend Foundations (#FeFo) team, with the remit to enhance developer experience, level up tooling, testing, and implement e2e delivery pipelines.
 
 - **Built frontend** tooling and CI/CD pipelines to boost engineering efficiency.  
 - **Scaled and mentored** a team of engineers, fostering a strong frontend engineering culture.  
